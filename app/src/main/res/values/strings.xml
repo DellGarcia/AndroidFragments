@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AndroidFragments</string>
+    <string name="resultado">Resultado</string>
+    <string name="acertos">Acertos</string>
+    <string name="erros">Erros</string>
+    <string name="_0">0</string>
+    <string name="verificar">Verificar</string>
+    <string name="pular">Pular</string>
+</resources>
